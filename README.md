@@ -20,4 +20,3 @@ A project for the 2025 JS13K Game Jam, the theme is "Black Cat".
 - `npm run build` - Production build
 - `npm run preview` - Build preview
 - `npm run zip` - Create Zip file for submission
-   ```
