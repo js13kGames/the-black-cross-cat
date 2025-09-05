@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   root: 'src',
+  base: './',
   build: {
     target: 'es2015',
     minify: 'terser',
